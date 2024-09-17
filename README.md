@@ -38,7 +38,7 @@
 package main
 
 import (
-    "github.com/SheltonZhu/115driver/pkg/driver"
+    "github.com/imfusheng/115driver/pkg/driver"
     "log"
 )
 

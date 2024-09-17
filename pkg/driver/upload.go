@@ -17,8 +17,8 @@ import (
 	"sync"
 	"time"
 
-	hash "github.com/SheltonZhu/115driver/pkg/crypto"
 	"github.com/aliyun/aliyun-oss-go-sdk/oss"
+	hash "github.com/imfusheng/115driver/pkg/crypto"
 	"github.com/orzogc/fake115uploader/cipher"
 	"github.com/pkg/errors"
 )
